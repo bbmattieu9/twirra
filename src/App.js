@@ -1,10 +1,13 @@
 import React from 'react';
 import './App.css';
 
+// import components
+import Nav from './components/Nav';
+
 function App() {
   return (
     <div className="App">
-      Hello Tizi
+      <Nav />
     </div>
   );
 }
