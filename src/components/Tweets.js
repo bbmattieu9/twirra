@@ -5,3 +5,5 @@ const Tweets = () => (
         <h1>Tweets</h1>
     </section>
 );
+
+export default Tweets;
